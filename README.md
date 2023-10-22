@@ -172,3 +172,4 @@ The recognizable commands by the interpreter are the following:
 INI JUSTINE | [justine-ini](inijustine4040@gmail.com) 
 
 VICTOR OLOLADE | [Boveek](oluwabori2014@gmail.com)
+This is the front-end design of the AirBnB clone
